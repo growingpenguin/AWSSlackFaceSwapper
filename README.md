@@ -19,3 +19,6 @@ The AI model processes the image and the resulting processed image is saved back
 After saving the processed image, Lambda generates another pre-signed URL for the processed image and sends this URL back to Canva.
 **8.User Views the Processed Image on Canva** <br/>
 Canva receives the pre-signed URL for the processed image and displays the image to the user, allowing them to see the result of the AI processing <br/>
+
+
+https://kinocoder.tistory.com/13 <br/>
